@@ -1,3 +1,3 @@
 # random-repo
 
-just a repo to hold some files. 
+Just a random repo lol
